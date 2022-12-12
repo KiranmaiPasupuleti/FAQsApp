@@ -1,0 +1,22 @@
+/* Write your code here. */
+.bg {
+  background-color: #9aa5b1;
+  padding: 20px;
+  display: flexx;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+.faqs-container {
+  background-color: white;
+  width: 90%;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border-radius: 15px;
+}
+.heading {
+  color: #cb8805;
+}

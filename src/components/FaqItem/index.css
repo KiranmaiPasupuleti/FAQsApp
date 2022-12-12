@@ -1,0 +1,23 @@
+/* Write your code here. */
+.each-faq-container {
+  list-style-type: none;
+  border: 1px solid grey;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+.question-el {
+  font-size: 20px;
+  width: 80%;
+}
+.plus-minus-styling {
+  background-color: transparent;
+  border: 0;
+  align-self: center;
+}
+.question-button-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
